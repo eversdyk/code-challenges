@@ -6,7 +6,7 @@ This is an example of a Pipe Delimited data file that we receive from one of our
 In this challenge, we want to extract lists of full_names (Grantors and Grantees) for each of the documents in the data file.
   
 
-Given the file **Index_133634.csv**. Complete the python code to do the following:
+Given the file **Index_133634.txt**. Complete the python code to do the following:
 
 1) Read this delimited file **Index_133634.txt** into a Pandas data frame using the provided headers.
 
