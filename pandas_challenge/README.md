@@ -12,7 +12,7 @@ Given the file **Index_133634.csv**. Complete the python code to do the followin
 
 2) Now that you have the data in a dataframe, extract lists of GRANTOR and GRANTEES (which are persons names) for each document. Each document is identified by a unique number labeled INST.NUM. 
 
-3) Recombine the names into this format LNAME, FNAME MNAME.
+3) Recombine the names into this format LNAME, FNAME MNAME TITLE.
 
 
 Example output is provided in the file **expected_output.json**. This file will be used to check your output.
